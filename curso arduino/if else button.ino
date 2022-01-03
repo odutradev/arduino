@@ -1,4 +1,4 @@
-//03/01/2022, button com if else
+//03/01/2022, button com if else.
 
 #define red 2
 #define green 3 
