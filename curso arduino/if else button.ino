@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //03/01/2022, button com if else.
+=======
+//03/01/2022, button com if else
+>>>>>>> 676ae358f4b21f731668cab00fe24fc12be47a34
 
 #define red 2
 #define green 3 
