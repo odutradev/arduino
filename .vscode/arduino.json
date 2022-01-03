@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM7",
+    "programmer": "arduino:stk500",
+    "sketch": "curso arduino\\leds em loop.ino"
+}
