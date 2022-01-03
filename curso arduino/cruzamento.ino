@@ -34,11 +34,7 @@ reset(3000);
 
 digitalWrite(yellow, HIGH);
 digitalWrite(vermelho, HIGH);
-reset(500);
-
-digitalWrite(yellow, HIGH);
-digitalWrite(vermelho, HIGH);
-reset(500);
+reset(1000);
 
 digitalWrite(red, HIGH);
 digitalWrite(vermelho, HIGH);
@@ -50,11 +46,9 @@ reset(3000);
 
 digitalWrite(red, HIGH);
 digitalWrite(amarelo, HIGH);
-reset(500);
+reset(1000);
 
-digitalWrite(red, HIGH);
-digitalWrite(amarelo, HIGH);
-reset(500);
+
 }
 
 

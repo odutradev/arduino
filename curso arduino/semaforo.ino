@@ -22,8 +22,6 @@ onLed(green, 600);
 
 //Piscando led amarelo 3 vezes para sinalizar que o sinal ira fechar 
 onLed(yellow, 300);
-onLed(yellow, 300);
-onLed(yellow, 300);
 
 //liga led vermelho 
 onLed(red, 700);
