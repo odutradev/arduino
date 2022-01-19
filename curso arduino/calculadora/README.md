@@ -17,13 +17,19 @@
 |  1  | Potenciometro 5k        |
 </div><br/>
  
+<div align="center">
+  <h3>Algumas imagens do projeto</h3>
+  <img align="center" height="163em" alt="tinkercad" src="https://imgur.com/XKCURsA.png">
+  <img align="center" height="163em" alt="cell" src="https://imgur.com/DSl2jvJ.png">
+
+
+</div><br/>
+
  - Como testar o projeto sem ter um arduino/lcd ?<br/>
  r: Para testar o projeto sem ter um arduino e simples, va no link acima chamado tinkercad e apos isso clique simular circuito.
  
- ### Imagens do projeto:
+ - Como ver o funcionamento do projeto ?<br/>
+ r: Entre no link citado no inicio da pagina ('video no youtube') e veja o conteudo do video.
  
- <div style="display: inline_block"><br>
-  <img align="center" height="163em" alt="tinkercad" src="https://imgur.com/XKCURsA.png">
-  <img align="center" height="163em" alt="cell" src="https://imgur.com/DSl2jvJ.png">
-  </div><br/>
-  
+ - Tenho ideias de projetos e quero te enviar<br/>
+ r: Entre em contato comigo pelo meu [discord](https://discord.com/users/567004154569162753) e apresente a ideia la.
